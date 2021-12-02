@@ -49,3 +49,8 @@ http://localhost
 
 - Base image
   - [mysql/mysql-server](https://hub.docker.com/r/mysql/mysql-server):8.0
+
+
+## thanks
+- https://qiita.com/ucan-lab/items/5fc1281cd8076c8ac9f4
+- https://github.com/ucan-lab/docker-laravel
